@@ -3,9 +3,10 @@
 #### Technical Skills: Python, SQL
 
 
-## Education			        		
-- B.Sc., Computer Science and Engineering|BRAC University (_January 2024_)
-- H.S.C, Science | Holycross College (_2018_)
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 
 ## Work Experience
