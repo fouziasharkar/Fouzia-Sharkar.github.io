@@ -4,7 +4,7 @@
 
 
 ## Education 			        		
-- B.Sc., CSE | Brac University (_January 2024_)
+- B.Sc., CSE | BRAC University (_January 2024_)
 
 
 ## Work Experience
