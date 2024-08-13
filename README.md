@@ -4,7 +4,7 @@
 
 
 ## Education			        		
-- B.Sc., Computer Science and Engineering | BRAC University (_January 2024_)
+- B.Sc., Computer Science and Engineering|BRAC University (_January 2024_)
 - H.S.C, Science | Holycross College (_2018_)
 
 
