@@ -14,7 +14,7 @@
 ## Thesis 
 
 #### Analyzing students’ concentration in online courses through Webcam 
-[Thesis Paper](Thesis.pdf)
+[Thesis Paper](file/Thesis.pdf)
 
 A significant problem that has emerged with the rising popularity of MOOC platforms is the lower course completion rates
 or student dropout rates. Our objective was to close this gap, therefore we applied deep learning to measure students’
